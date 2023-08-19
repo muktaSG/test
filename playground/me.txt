@@ -1,6 +1,0 @@
-{{#user}
-Name: Mukta Aggarwal
-Skills: Manual Tester,German Language Expert
-Email: muktagaggarwal@gmail.com
-{{/user}}
-
